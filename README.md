@@ -52,3 +52,69 @@ Regression using Neural Networks
 📊 Results
 
 The ANN model successfully learned patterns from the dataset and predicted power output with good accuracy using regression evaluation metrics.
+
+
+
+
+
+
+
+
+
+
+ANN Classification using Deep Learning 🧠⚡
+
+This project demonstrates how to build an Artificial Neural Network (ANN) for a classification problem using Deep Learning techniques. The model is trained to classify data accurately by learning hidden patterns from the dataset.
+
+📌 Project Objective
+
+The goal of this project is to:
+
+Preprocess real-world data
+Build an ANN model
+Train the neural network
+Predict output classes
+Evaluate model performance
+
+This project helped in understanding how Deep Learning models work for classification tasks.
+
+🚀 Technologies & Libraries Used
+Python
+Pandas
+NumPy
+Matplotlib
+Scikit-learn
+TensorFlow / Keras
+
+
+⚙️ Workflow
+Importing Libraries
+Data Loading
+Data Preprocessing
+Encoding Categorical Features
+Feature Scaling
+Train-Test Split
+Building ANN Model
+Model Compilation
+Training the Model
+Prediction & Evaluation
+
+
+🧠 Deep Learning Concepts Covered
+Artificial Neural Networks (ANN)
+Dense Layers
+Activation Functions
+Forward Propagation
+Backpropagation
+Binary Classification
+Optimizers & Loss Functions
+
+📊 Model Evaluation
+
+The model performance was evaluated using:
+
+Accuracy Score
+Confusion Matrix
+Prediction Analysis
+
+The ANN achieved good classification performance after training on the dataset.
