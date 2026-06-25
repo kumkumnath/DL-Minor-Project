@@ -1,6 +1,6 @@
 # DL-Minor-Project
 
-ANN Regression Project – Power Plant Energy Prediction ⚡🧠
+ANN Regression Project – Power Plant Energy Prediction 
 
 This project uses an Artificial Neural Network (ANN) built with PyTorch to predict the electrical energy output (PE) of a power plant based on environmental conditions.
 
@@ -62,7 +62,7 @@ The ANN model successfully learned patterns from the dataset and predicted power
 
 
 
-ANN Classification using Deep Learning 🧠⚡
+ANN Classification using Deep Learning 
 
 This project demonstrates how to build an Artificial Neural Network (ANN) for a classification problem using Deep Learning techniques. The model is trained to classify data accurately by learning hidden patterns from the dataset.
 
